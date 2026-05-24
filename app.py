@@ -786,7 +786,7 @@ def main():
 
     with st.sidebar:
         st.title("📊 Demography")
-        st.caption("Institut Remigration")
+        st.caption("Demographic indicators for migrants vs natives")
         st.divider()
         page = st.radio("Navigate", list(PAGES.keys()), label_visibility="collapsed")
         st.divider()
