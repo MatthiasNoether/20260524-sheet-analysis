@@ -33,28 +33,12 @@ COUNTRY_COLORS = [
 ]
 
 COUNTRY_COMPARISON_COLORS = {
-    "DE": "#FFD700", "GERMANY": "#FFD700",
-    "FR": "#0055A4", "FRANCE": "#0055A4",
-    "IT": "#009246", "ITALY": "#009246",
-    "ES": "#AA151B", "SPAIN": "#AA151B",
-    "US": "#3C3B6E", "USA": "#3C3B6E", "UNITED STATES": "#3C3B6E",
-    "GB": "#012169", "UK": "#012169", "UNITED KINGDOM": "#012169",
-    "CA": "#FF8C00", "CANADA": "#FF8C00",
-    "AT": "#ED2939", "AUSTRIA": "#ED2939",
-    "AU": "#00008B", "AUSTRALIA": "#00008B",
-    "JP": "#BC002D", "JAPAN": "#BC002D",
-    "IN": "#FF9933", "INDIA": "#FF9933",
-    "BR": "#009C3B", "BRAZIL": "#009C3B",
-    "RU": "#0033A0", "RUSSIA": "#0033A0",
-    "SE": "#005B99", "SWEDEN": "#005B99",
-    "MX": "#006847", "MEXICO": "#006847",
-    "CN": "#DE2910", "CHINA": "#DE2910",
-    "NL": "#FF6600", "NETHERLANDS": "#FF6600",
-    "NO": "#BA0C2F", "NORWAY": "#BA0C2F",
-    "PT": "#006600", "PORTUGAL": "#006600",
-    "CH": "#D52B1E", "SWITZERLAND": "#D52B1E",
-    "TR": "#E30A17", "TURKEY": "#E30A17",
-    "GR": "#0D5EAF", "GREECE": "#0D5EAF",
+    "AT": "#1f77b4", "AUSTRIA": "#1f77b4",
+    "CH": "#ff7f0e", "SWITZERLAND": "#ff7f0e",
+    "ES": "#2ca02c", "SPAIN": "#2ca02c",
+    "NL": "#d62728", "NETHERLANDS": "#d62728",
+    "DE": "#9467bd", "GERMANY": "#9467bd",
+    "FR": "#8c564b", "FRANCE": "#8c564b",
 }
 
 COUNTRY_COMPARISON_FALLBACK = [
